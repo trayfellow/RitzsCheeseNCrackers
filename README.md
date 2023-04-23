@@ -4,8 +4,8 @@
 Follow the [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) installation tutorial.
 
 ## Credits:
-* CreepyInk - Artist
+* CreepyInk - Art
 * Bunchie - Musician
-* Trayfellow(me!) - Coder
+* Trayfellow (me!) - Coder
 * Fl0pd00dle - Tankman VA
 _____________________________________
