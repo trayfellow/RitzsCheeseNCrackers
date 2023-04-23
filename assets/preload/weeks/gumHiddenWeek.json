@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "gumHiddenWeek",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Rat Trap",
+			"gum",
+			[
+				116,
+				242,
+				75
+			]
+		]
+	],
+	"difficulties": "Normal",
+	"hideStoryMode": false,
+	"weekName": "Jet Set Radio"
+}

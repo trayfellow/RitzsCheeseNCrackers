@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Gum.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gum Down Pose0000" x="2" y="2" width="462" height="543" frameX="0" frameY="-24" frameWidth="462" frameHeight="567"/>
+	<SubTexture name="Gum Down Pose0001" x="2" y="2" width="462" height="543" frameX="0" frameY="-24" frameWidth="462" frameHeight="567"/>
+	<SubTexture name="Gum Down Pose0002" x="466" y="2" width="450" height="566" frameX="-12" frameY="-1" frameWidth="462" frameHeight="567"/>
+	<SubTexture name="Gum Down Pose0003" x="466" y="2" width="450" height="566" frameX="-12" frameY="-1" frameWidth="462" frameHeight="567"/>
+	<SubTexture name="Gum Down Pose0004" x="918" y="2" width="450" height="567" frameX="-12" frameY="0" frameWidth="462" frameHeight="567"/>
+	<SubTexture name="Gum Down Pose0005" x="918" y="2" width="450" height="567" frameX="-12" frameY="0" frameWidth="462" frameHeight="567"/>
+	<SubTexture name="Gum Down Pose0006" x="918" y="2" width="450" height="567" frameX="-12" frameY="0" frameWidth="462" frameHeight="567"/>
+	<SubTexture name="Gum Down Pose0007" x="918" y="2" width="450" height="567" frameX="-12" frameY="0" frameWidth="462" frameHeight="567"/>
+	<SubTexture name="Gum Down Pose0008" x="918" y="2" width="450" height="567" frameX="-12" frameY="0" frameWidth="462" frameHeight="567"/>
+	<SubTexture name="Gum Down Pose0009" x="918" y="2" width="450" height="567" frameX="-12" frameY="0" frameWidth="462" frameHeight="567"/>
+	<SubTexture name="Gum Down Pose0010" x="918" y="2" width="450" height="567" frameX="-12" frameY="0" frameWidth="462" frameHeight="567"/>
+	<SubTexture name="Gum Down Pose0011" x="918" y="2" width="450" height="567" frameX="-12" frameY="0" frameWidth="462" frameHeight="567"/>
+	<SubTexture name="Gum Down Pose0012" x="918" y="2" width="450" height="567" frameX="-12" frameY="0" frameWidth="462" frameHeight="567"/>
+	<SubTexture name="Gum Down Pose0013" x="918" y="2" width="450" height="567" frameX="-12" frameY="0" frameWidth="462" frameHeight="567"/>
+	<SubTexture name="Gum Idle0000" x="1370" y="2" width="381" height="693" frameX="0" frameY="-11" frameWidth="381" frameHeight="704"/>
+	<SubTexture name="Gum Idle0001" x="1370" y="2" width="381" height="693" frameX="0" frameY="-11" frameWidth="381" frameHeight="704"/>
+	<SubTexture name="Gum Idle0002" x="2" y="697" width="379" height="694" frameX="-1" frameY="-10" frameWidth="381" frameHeight="704"/>
+	<SubTexture name="Gum Idle0003" x="2" y="697" width="379" height="694" frameX="-1" frameY="-10" frameWidth="381" frameHeight="704"/>
+	<SubTexture name="Gum Idle0004" x="383" y="697" width="372" height="701" frameX="-6" frameY="-2" frameWidth="381" frameHeight="704"/>
+	<SubTexture name="Gum Idle0005" x="383" y="697" width="372" height="701" frameX="-6" frameY="-2" frameWidth="381" frameHeight="704"/>
+	<SubTexture name="Gum Idle0006" x="757" y="697" width="371" height="702" frameX="-7" frameY="-1" frameWidth="381" frameHeight="704"/>
+	<SubTexture name="Gum Idle0007" x="757" y="697" width="371" height="702" frameX="-7" frameY="-1" frameWidth="381" frameHeight="704"/>
+	<SubTexture name="Gum Idle0008" x="1130" y="697" width="371" height="703" frameX="-7" frameY="0" frameWidth="381" frameHeight="704"/>
+	<SubTexture name="Gum Idle0009" x="1130" y="697" width="371" height="703" frameX="-7" frameY="0" frameWidth="381" frameHeight="704"/>
+	<SubTexture name="Gum Idle0010" x="1130" y="697" width="371" height="703" frameX="-7" frameY="0" frameWidth="381" frameHeight="704"/>
+	<SubTexture name="Gum Idle0011" x="1130" y="697" width="371" height="703" frameX="-7" frameY="0" frameWidth="381" frameHeight="704"/>
+	<SubTexture name="Gum Idle0012" x="1130" y="697" width="371" height="703" frameX="-7" frameY="0" frameWidth="381" frameHeight="704"/>
+	<SubTexture name="Gum Idle0013" x="1130" y="697" width="371" height="703" frameX="-7" frameY="0" frameWidth="381" frameHeight="704"/>
+	<SubTexture name="Gum Left Pose0000" x="1503" y="697" width="409" height="685" frameX="0" frameY="-10" frameWidth="419" frameHeight="695"/>
+	<SubTexture name="Gum Left Pose0001" x="1503" y="697" width="409" height="685" frameX="0" frameY="-10" frameWidth="419" frameHeight="695"/>
+	<SubTexture name="Gum Left Pose0002" x="2" y="1402" width="412" height="693" frameX="-7" frameY="-2" frameWidth="419" frameHeight="695"/>
+	<SubTexture name="Gum Left Pose0003" x="2" y="1402" width="412" height="693" frameX="-7" frameY="-2" frameWidth="419" frameHeight="695"/>
+	<SubTexture name="Gum Left Pose0004" x="416" y="1402" width="411" height="695" frameX="-8" frameY="0" frameWidth="419" frameHeight="695"/>
+	<SubTexture name="Gum Left Pose0005" x="416" y="1402" width="411" height="695" frameX="-8" frameY="0" frameWidth="419" frameHeight="695"/>
+	<SubTexture name="Gum Left Pose0006" x="416" y="1402" width="411" height="695" frameX="-8" frameY="0" frameWidth="419" frameHeight="695"/>
+	<SubTexture name="Gum Left Pose0007" x="416" y="1402" width="411" height="695" frameX="-8" frameY="0" frameWidth="419" frameHeight="695"/>
+	<SubTexture name="Gum Left Pose0008" x="416" y="1402" width="411" height="695" frameX="-8" frameY="0" frameWidth="419" frameHeight="695"/>
+	<SubTexture name="Gum Left Pose0009" x="416" y="1402" width="411" height="695" frameX="-8" frameY="0" frameWidth="419" frameHeight="695"/>
+	<SubTexture name="Gum Left Pose0010" x="416" y="1402" width="411" height="695" frameX="-8" frameY="0" frameWidth="419" frameHeight="695"/>
+	<SubTexture name="Gum Left Pose0011" x="416" y="1402" width="411" height="695" frameX="-8" frameY="0" frameWidth="419" frameHeight="695"/>
+	<SubTexture name="Gum Left Pose0012" x="416" y="1402" width="411" height="695" frameX="-8" frameY="0" frameWidth="419" frameHeight="695"/>
+	<SubTexture name="Gum Left Pose0013" x="416" y="1402" width="411" height="695" frameX="-8" frameY="0" frameWidth="419" frameHeight="695"/>
+	<SubTexture name="Gum Right Pose0000" x="829" y="1402" width="427" height="637" frameX="-2" frameY="-4" frameWidth="429" frameHeight="641"/>
+	<SubTexture name="Gum Right Pose0001" x="829" y="1402" width="427" height="637" frameX="-2" frameY="-4" frameWidth="429" frameHeight="641"/>
+	<SubTexture name="Gum Right Pose0002" x="1258" y="1402" width="423" height="641" frameX="0" frameY="0" frameWidth="429" frameHeight="641"/>
+	<SubTexture name="Gum Right Pose0003" x="1258" y="1402" width="423" height="641" frameX="0" frameY="0" frameWidth="429" frameHeight="641"/>
+	<SubTexture name="Gum Right Pose0004" x="2" y="2099" width="423" height="641" frameX="0" frameY="0" frameWidth="429" frameHeight="641"/>
+	<SubTexture name="Gum Right Pose0005" x="2" y="2099" width="423" height="641" frameX="0" frameY="0" frameWidth="429" frameHeight="641"/>
+	<SubTexture name="Gum Right Pose0006" x="2" y="2099" width="423" height="641" frameX="0" frameY="0" frameWidth="429" frameHeight="641"/>
+	<SubTexture name="Gum Right Pose0007" x="2" y="2099" width="423" height="641" frameX="0" frameY="0" frameWidth="429" frameHeight="641"/>
+	<SubTexture name="Gum Right Pose0008" x="2" y="2099" width="423" height="641" frameX="0" frameY="0" frameWidth="429" frameHeight="641"/>
+	<SubTexture name="Gum Right Pose0009" x="2" y="2099" width="423" height="641" frameX="0" frameY="0" frameWidth="429" frameHeight="641"/>
+	<SubTexture name="Gum Right Pose0010" x="2" y="2099" width="423" height="641" frameX="0" frameY="0" frameWidth="429" frameHeight="641"/>
+	<SubTexture name="Gum Right Pose0011" x="2" y="2099" width="423" height="641" frameX="0" frameY="0" frameWidth="429" frameHeight="641"/>
+	<SubTexture name="Gum Right Pose0012" x="2" y="2099" width="423" height="641" frameX="0" frameY="0" frameWidth="429" frameHeight="641"/>
+	<SubTexture name="Gum Right Pose0013" x="2" y="2099" width="423" height="641" frameX="0" frameY="0" frameWidth="429" frameHeight="641"/>
+	<SubTexture name="Gum Up Pose0000" x="427" y="2099" width="319" height="742" frameX="-23" frameY="0" frameWidth="352" frameHeight="742"/>
+	<SubTexture name="Gum Up Pose0001" x="427" y="2099" width="319" height="742" frameX="-23" frameY="0" frameWidth="352" frameHeight="742"/>
+	<SubTexture name="Gum Up Pose0002" x="748" y="2099" width="351" height="731" frameX="-1" frameY="-11" frameWidth="352" frameHeight="742"/>
+	<SubTexture name="Gum Up Pose0003" x="748" y="2099" width="351" height="731" frameX="-1" frameY="-11" frameWidth="352" frameHeight="742"/>
+	<SubTexture name="Gum Up Pose0004" x="1101" y="2099" width="352" height="730" frameX="0" frameY="-12" frameWidth="352" frameHeight="742"/>
+	<SubTexture name="Gum Up Pose0005" x="1101" y="2099" width="352" height="730" frameX="0" frameY="-12" frameWidth="352" frameHeight="742"/>
+	<SubTexture name="Gum Up Pose0006" x="1101" y="2099" width="352" height="730" frameX="0" frameY="-12" frameWidth="352" frameHeight="742"/>
+	<SubTexture name="Gum Up Pose0007" x="1101" y="2099" width="352" height="730" frameX="0" frameY="-12" frameWidth="352" frameHeight="742"/>
+	<SubTexture name="Gum Up Pose0008" x="1101" y="2099" width="352" height="730" frameX="0" frameY="-12" frameWidth="352" frameHeight="742"/>
+	<SubTexture name="Gum Up Pose0009" x="1101" y="2099" width="352" height="730" frameX="0" frameY="-12" frameWidth="352" frameHeight="742"/>
+	<SubTexture name="Gum Up Pose0010" x="1101" y="2099" width="352" height="730" frameX="0" frameY="-12" frameWidth="352" frameHeight="742"/>
+	<SubTexture name="Gum Up Pose0011" x="1101" y="2099" width="352" height="730" frameX="0" frameY="-12" frameWidth="352" frameHeight="742"/>
+	<SubTexture name="Gum Up Pose0012" x="1101" y="2099" width="352" height="730" frameX="0" frameY="-12" frameWidth="352" frameHeight="742"/>
+	<SubTexture name="Gum Up Pose0013" x="1101" y="2099" width="352" height="730" frameX="0" frameY="-12" frameWidth="352" frameHeight="742"/>
+</TextureAtlas>

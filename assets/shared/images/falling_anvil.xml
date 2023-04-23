@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="falling_anvil.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ritz preCrush0000" x="2" y="2" width="647" height="301" frameX="0" frameY="-12" frameWidth="647" frameHeight="734"/>
+	<SubTexture name="Ritz preCrush0001" x="2" y="2" width="647" height="301" frameX="0" frameY="-12" frameWidth="647" frameHeight="734"/>
+	<SubTexture name="Ritz preCrush0002" x="2" y="305" width="604" height="734" frameX="-21" frameY="0" frameWidth="647" frameHeight="734"/>
+</TextureAtlas>

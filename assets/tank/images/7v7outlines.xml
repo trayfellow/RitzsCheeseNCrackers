@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="7v7outlines.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="outline0000" x="2" y="2" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="723"/>
+	<SubTexture name="outline0001" x="2" y="2" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="723"/>
+	<SubTexture name="outline0002" x="2" y="2" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="723"/>
+	<SubTexture name="outline0003" x="2" y="2" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="723"/>
+	<SubTexture name="outline0004" x="1284" y="2" width="1280" height="723"/>
+	<SubTexture name="outline0005" x="1284" y="2" width="1280" height="723"/>
+	<SubTexture name="outline0006" x="1284" y="2" width="1280" height="723"/>
+	<SubTexture name="outline0007" x="1284" y="2" width="1280" height="723"/>
+	<SubTexture name="outline0008" x="2566" y="2" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="723"/>
+	<SubTexture name="outline0009" x="2566" y="2" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="723"/>
+	<SubTexture name="outline0010" x="2566" y="2" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="723"/>
+	<SubTexture name="outline0011" x="2566" y="2" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="723"/>
+</TextureAtlas>

@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Ritz Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Ritz Sing Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-66
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Ritz Sing Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				28
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Ritz Sing Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Ritz Sing Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				15
+			],
+			"anim": "squeak",
+			"fps": 24,
+			"name": "Ritz Squeak",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				10
+			],
+			"anim": "drop",
+			"fps": 24,
+			"name": "Ritz Drop Sound",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				4
+			],
+			"anim": "squeeze",
+			"fps": 24,
+			"name": "Ritz Squeeze",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				10
+			],
+			"anim": "squeezeNdrop",
+			"fps": 24,
+			"name": "Ritz Both Sound",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				109
+			],
+			"anim": "yippie",
+			"fps": 24,
+			"name": "Ritz Yippie",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ritz",
+	"position": [
+		-35,
+		365
+	],
+	"healthicon": "ritz",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		142,
+		30
+	],
+	"camera_position": [
+		120,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

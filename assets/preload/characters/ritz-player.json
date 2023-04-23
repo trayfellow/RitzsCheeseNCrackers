@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Ritz Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				57,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Ritz Sing Right0"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Ritz Sing Left0"
+		},
+		{
+			"offsets": [
+				20,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Ritz Sing Up0"
+		},
+		{
+			"offsets": [
+				74,
+				-68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Ritz Sing Down0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				-2
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Ritz Sing Right miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Ritz Sing Left miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				29
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Ritz Sing Up miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				-49
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Ritz Sing Down miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				2
+			],
+			"anim": "wha",
+			"fps": 24,
+			"name": "RITZ WHAT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-3,
+				-1
+			],
+			"anim": "footTap",
+			"fps": 24,
+			"name": "RITZ FOOT TAP LOOP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				2
+			],
+			"anim": "beginIdle",
+			"fps": 24,
+			"name": "RITZ BEGIN IDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-2,
+				77
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "anvilShot",
+			"loop": false,
+			"name": "Ritz Getting Shot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ritz_playable",
+	"position": [
+		52,
+		347
+	],
+	"healthicon": "ritz",
+	"flip_x": true,
+	"healthbar_colors": [
+		254,
+		142,
+		30
+	],
+	"camera_position": [
+		49,
+		-23
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

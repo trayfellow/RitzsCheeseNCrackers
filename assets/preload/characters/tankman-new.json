@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-210
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Captain Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				76,
+				-211
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Captain Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				-339
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Captain Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-160
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Captain Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				-212
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Captain Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				-209
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Captain UGH",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-27,
+				-210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Captain Laugh"
+		},
+		{
+			"offsets": [
+				91,
+				-69
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "anvilShoot",
+			"loop": false,
+			"name": "Captain PEW PEW PEW"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tankmanCaptain_new",
+	"position": [
+		-48,
+		20
+	],
+	"healthicon": "tankman",
+	"flip_x": false,
+	"healthbar_colors": [
+		225,
+		225,
+		225
+	],
+	"camera_position": [
+		20,
+		280
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

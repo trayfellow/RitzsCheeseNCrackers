@@ -1,0 +1,286 @@
+{
+	"song": {
+		"events": [
+			[
+				7758.62068965517,
+				[
+					[
+						"Play Animation",
+						"squeak",
+						"dad"
+					]
+				]
+			],
+			[
+				10000,
+				[
+					[
+						"Play Animation",
+						"squeeze",
+						"dad"
+					]
+				]
+			],
+			[
+				12758.6206896552,
+				[
+					[
+						"Play Animation",
+						"squeeze",
+						"dad"
+					]
+				]
+			],
+			[
+				13103.4482758621,
+				[
+					[
+						"Play Animation",
+						"squeeze",
+						"dad"
+					]
+				]
+			],
+			[
+				14741.3793103448,
+				[
+					[
+						"Play Animation",
+						"drop",
+						"dad"
+					]
+				]
+			],
+			[
+				16206.8965517241,
+				[
+					[
+						"Play Animation",
+						"squeeze",
+						"dad"
+					]
+				]
+			],
+			[
+				18793.1034482759,
+				[
+					[
+						"Play Animation",
+						"squeak",
+						"dad"
+					]
+				]
+			],
+			[
+				21724.1379310345,
+				[
+					[
+						"Play Animation",
+						"squeeze",
+						"dad"
+					]
+				]
+			],
+			[
+				26551.724137931,
+				[
+					[
+						"Play Animation",
+						"squeeze",
+						"dad"
+					]
+				]
+			],
+			[
+				29310.3448275862,
+				[
+					[
+						"Play Animation",
+						"squeeze",
+						"dad"
+					]
+				]
+			],
+			[
+				29655.1724137931,
+				[
+					[
+						"Play Animation",
+						"squeeze",
+						"dad"
+					]
+				]
+			],
+			[
+				29913.7931034483,
+				[
+					[
+						"Play Animation",
+						"squeak",
+						"dad"
+					]
+				]
+			],
+			[
+				31293.1034482759,
+				[
+					[
+						"Play Animation",
+						"drop",
+						"dad"
+					]
+				]
+			],
+			[
+				32758.6206896552,
+				[
+					[
+						"Play Animation",
+						"squeeze",
+						"dad"
+					]
+				]
+			],
+			[
+				37586.2068965517,
+				[
+					[
+						"Play Animation",
+						"squeeze",
+						"dad"
+					]
+				]
+			],
+			[
+				40344.8275862069,
+				[
+					[
+						"Play Animation",
+						"squeeze",
+						"dad"
+					]
+				]
+			],
+			[
+				40689.6551724138,
+				[
+					[
+						"Play Animation",
+						"squeeze",
+						"dad"
+					]
+				]
+			],
+			[
+				40948.275862069,
+				[
+					[
+						"Play Animation",
+						"squeak",
+						"dad"
+					]
+				]
+			],
+			[
+				42327.5862068966,
+				[
+					[
+						"Play Animation",
+						"drop",
+						"dad"
+					]
+				]
+			],
+			[
+				43793.1034482759,
+				[
+					[
+						"Play Animation",
+						"squeeze",
+						"dad"
+					]
+				]
+			],
+			[
+				72758.6206896552,
+				[
+					[
+						"Play Animation",
+						"squeeze",
+						"dad"
+					]
+				]
+			],
+			[
+				75431.0344827586,
+				[
+					[
+						"Play Animation",
+						"squeezeNDrop",
+						"dad"
+					]
+				]
+			],
+			[
+				140172.413793103,
+				[
+					[
+						"Play Animation",
+						"squeak",
+						"dad"
+					]
+				]
+			],
+			[
+				145172.413793103,
+				[
+					[
+						"Play Animation",
+						"squeeze",
+						"dad"
+					]
+				]
+			],
+			[
+				145517.24137931,
+				[
+					[
+						"Play Animation",
+						"squeeze",
+						"dad"
+					]
+				]
+			],
+			[
+				147155.172413793,
+				[
+					[
+						"Play Animation",
+						"drop",
+						"dad"
+					]
+				]
+			],
+			[
+				151206.896551724,
+				[
+					[
+						"Play Animation",
+						"squeak",
+						"dad"
+					]
+				]
+			],
+			[
+				152672.413793103,
+				[
+					[
+						"Play Animation",
+						"squeezeNDrop",
+						"dad"
+					]
+				]
+			]
+		]
+	}
+}

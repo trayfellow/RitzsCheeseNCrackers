@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Ritza Idle Bop"
+		},
+		{
+			"offsets": [
+				40,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Ritza Left Pose"
+		},
+		{
+			"offsets": [
+				-52,
+				-136
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Ritza Down Pose"
+		},
+		{
+			"offsets": [
+				-23,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Ritza Up Pose"
+		},
+		{
+			"offsets": [
+				-50,
+				-34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Ritza Right Pose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ritza",
+	"position": [
+		-275,
+		-80
+	],
+	"healthicon": "ritza",
+	"flip_x": false,
+	"healthbar_colors": [
+		239,
+		200,
+		101
+	],
+	"camera_position": [
+		210,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

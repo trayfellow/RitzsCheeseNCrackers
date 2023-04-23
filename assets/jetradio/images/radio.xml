@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="radio.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="radio bop0000" x="2" y="2" width="212" height="167" frameX="-1" frameY="-10" frameWidth="214" frameHeight="177"/>
+	<SubTexture name="radio bop0001" x="216" y="2" width="214" height="177"/>
+	<SubTexture name="radio bop0002" x="216" y="2" width="214" height="177"/>
+	<SubTexture name="radio bop0003" x="2" y="181" width="202" height="176" frameX="-6" frameY="-1" frameWidth="214" frameHeight="177"/>
+	<SubTexture name="radio bop0004" x="206" y="181" width="202" height="176" frameX="-6" frameY="-1" frameWidth="214" frameHeight="177"/>
+	<SubTexture name="radio bop0005" x="206" y="181" width="202" height="176" frameX="-6" frameY="-1" frameWidth="214" frameHeight="177"/>
+	<SubTexture name="radio bop0006" x="206" y="181" width="202" height="176" frameX="-6" frameY="-1" frameWidth="214" frameHeight="177"/>
+	<SubTexture name="radio bop0007" x="206" y="181" width="202" height="176" frameX="-6" frameY="-1" frameWidth="214" frameHeight="177"/>
+	<SubTexture name="radio bop0008" x="206" y="181" width="202" height="176" frameX="-6" frameY="-1" frameWidth="214" frameHeight="177"/>
+	<SubTexture name="radio bop0009" x="206" y="181" width="202" height="176" frameX="-6" frameY="-1" frameWidth="214" frameHeight="177"/>
+	<SubTexture name="radio bop0010" x="206" y="181" width="202" height="176" frameX="-6" frameY="-1" frameWidth="214" frameHeight="177"/>
+	<SubTexture name="radio bop0011" x="206" y="181" width="202" height="176" frameX="-6" frameY="-1" frameWidth="214" frameHeight="177"/>
+	<SubTexture name="radio bop0012" x="206" y="181" width="202" height="176" frameX="-6" frameY="-1" frameWidth="214" frameHeight="177"/>
+	<SubTexture name="radio bop0013" x="206" y="181" width="202" height="176" frameX="-6" frameY="-1" frameWidth="214" frameHeight="177"/>
+	<SubTexture name="radio bop0014" x="206" y="181" width="202" height="176" frameX="-6" frameY="-1" frameWidth="214" frameHeight="177"/>
+</TextureAtlas>

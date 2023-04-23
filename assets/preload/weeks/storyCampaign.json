@@ -1,0 +1,44 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "storyCampaign",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Cheddar",
+			"ritz",
+			[
+				255,
+				156,
+				53
+			]
+		],
+		[
+			"Retro",
+			"ritz",
+			[
+				255,
+				156,
+				53
+			]
+		],
+		[
+			"Squeeze",
+			"ritz",
+			[
+				255,
+				156,
+				53
+			]
+		]
+	],
+	"difficulties": "Normal, Hard",
+	"hideStoryMode": false,
+	"weekName": "Story Mode"
+}

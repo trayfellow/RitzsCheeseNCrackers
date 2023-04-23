@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ritz_Anvil_DEAD.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ritz Crushed0000" x="2" y="2" width="725" height="339" frameX="0" frameY="-3" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0001" x="729" y="2" width="708" height="322" frameX="0" frameY="-3" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0002" x="2" y="343" width="652" height="322" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0003" x="2" y="343" width="652" height="322" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0004" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0005" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0006" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0007" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0008" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0009" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0010" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0011" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0012" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0013" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0014" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0015" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0016" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0017" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0018" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0019" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0020" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0021" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0022" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0023" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0024" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0025" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0026" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0027" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0028" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0029" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0030" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0031" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0032" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0033" x="656" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0034" x="1305" y="343" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0035" x="2" y="669" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0036" x="651" y="669" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0037" x="1300" y="669" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0038" x="2" y="995" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0039" x="651" y="995" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0040" x="1300" y="995" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0041" x="2" y="1321" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0042" x="651" y="1321" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0043" x="1300" y="1321" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0044" x="2" y="1647" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0045" x="651" y="1647" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0046" x="1300" y="1647" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0047" x="2" y="1973" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0048" x="651" y="1973" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0049" x="1300" y="1973" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0050" x="2" y="2299" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0051" x="651" y="2299" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0052" x="1300" y="2299" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0053" x="2" y="2625" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0054" x="651" y="2625" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0055" x="1300" y="2625" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0056" x="1300" y="2625" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz Crushed0057" x="1300" y="2625" width="647" height="324" frameX="-5" frameY="0" frameWidth="725" frameHeight="342"/>
+	<SubTexture name="Ritz anvilConfirm0000" x="2" y="2951" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0001" x="651" y="2951" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0002" x="651" y="2951" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0003" x="1300" y="2951" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0004" x="1300" y="2951" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0005" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0006" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0007" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0008" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0009" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0010" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0011" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0012" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0013" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0014" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0015" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0016" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0017" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0018" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0019" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0020" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0021" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0022" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0023" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0024" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0025" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0026" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0027" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0028" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0029" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0030" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0031" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0032" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilConfirm0033" x="2" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0000" x="651" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0001" x="651" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0002" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0003" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0004" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0005" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0006" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0007" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0008" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0009" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0010" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0011" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0012" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0013" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0014" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0015" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0016" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0017" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0018" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0019" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0020" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0021" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0022" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0023" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0024" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0025" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0026" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0027" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0028" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0029" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0030" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0031" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0032" x="1300" y="3255" width="647" height="302"/>
+	<SubTexture name="Ritz anvilLoop0033" x="1300" y="3255" width="647" height="302"/>
+</TextureAtlas>

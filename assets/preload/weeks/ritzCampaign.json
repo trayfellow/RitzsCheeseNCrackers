@@ -1,0 +1,44 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "storyCampaign",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Rizz",
+			"ritza",
+			[
+				255,
+				119,
+				66
+			]
+		],
+		[
+			"Checkpoint",
+			"butz",
+			[
+				255,
+				119,
+				66
+			]
+		],
+		[
+			"7v7",
+			"tankman",
+			[
+				255,
+				119,
+				66
+			]
+		]
+	],
+	"difficulties": "Normal, Hard",
+	"hideStoryMode": false,
+	"weekName": "Ritz Mode"
+}

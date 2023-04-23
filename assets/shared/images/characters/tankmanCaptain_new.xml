@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tankmanCaptain_new.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Captain Down0000" x="2" y="2" width="548" height="426" frameX="-4" frameY="-11" frameWidth="568" frameHeight="437"/>
+	<SubTexture name="Captain Down0001" x="2" y="2" width="548" height="426" frameX="-4" frameY="-11" frameWidth="568" frameHeight="437"/>
+	<SubTexture name="Captain Down0002" x="552" y="2" width="568" height="437"/>
+	<SubTexture name="Captain Down0003" x="552" y="2" width="568" height="437"/>
+	<SubTexture name="Captain Down0004" x="552" y="2" width="568" height="437"/>
+	<SubTexture name="Captain Down0005" x="552" y="2" width="568" height="437"/>
+	<SubTexture name="Captain Down0006" x="552" y="2" width="568" height="437"/>
+	<SubTexture name="Captain Down0007" x="552" y="2" width="568" height="437"/>
+	<SubTexture name="Captain Down0008" x="552" y="2" width="568" height="437"/>
+	<SubTexture name="Captain Down0009" x="552" y="2" width="568" height="437"/>
+	<SubTexture name="Captain Down0010" x="552" y="2" width="568" height="437"/>
+	<SubTexture name="Captain Down0011" x="552" y="2" width="568" height="437"/>
+	<SubTexture name="Captain Down0012" x="552" y="2" width="568" height="437"/>
+	<SubTexture name="Captain Down0013" x="552" y="2" width="568" height="437"/>
+	<SubTexture name="Captain Idle0000" x="1122" y="2" width="477" height="545" frameX="-1" frameY="-14" frameWidth="478" frameHeight="559"/>
+	<SubTexture name="Captain Idle0001" x="1122" y="2" width="477" height="545" frameX="-1" frameY="-14" frameWidth="478" frameHeight="559"/>
+	<SubTexture name="Captain Idle0002" x="1601" y="2" width="478" height="545" frameX="0" frameY="-14" frameWidth="478" frameHeight="559"/>
+	<SubTexture name="Captain Idle0003" x="1601" y="2" width="478" height="545" frameX="0" frameY="-14" frameWidth="478" frameHeight="559"/>
+	<SubTexture name="Captain Idle0004" x="2081" y="2" width="477" height="551" frameX="-1" frameY="-8" frameWidth="478" frameHeight="559"/>
+	<SubTexture name="Captain Idle0005" x="2081" y="2" width="477" height="551" frameX="-1" frameY="-8" frameWidth="478" frameHeight="559"/>
+	<SubTexture name="Captain Idle0006" x="2560" y="2" width="474" height="558" frameX="-2" frameY="-1" frameWidth="478" frameHeight="559"/>
+	<SubTexture name="Captain Idle0007" x="2560" y="2" width="474" height="558" frameX="-2" frameY="-1" frameWidth="478" frameHeight="559"/>
+	<SubTexture name="Captain Idle0008" x="3036" y="2" width="473" height="559" frameX="-3" frameY="0" frameWidth="478" frameHeight="559"/>
+	<SubTexture name="Captain Idle0009" x="3036" y="2" width="473" height="559" frameX="-3" frameY="0" frameWidth="478" frameHeight="559"/>
+	<SubTexture name="Captain Idle0010" x="3036" y="2" width="473" height="559" frameX="-3" frameY="0" frameWidth="478" frameHeight="559"/>
+	<SubTexture name="Captain Idle0011" x="3036" y="2" width="473" height="559" frameX="-3" frameY="0" frameWidth="478" frameHeight="559"/>
+	<SubTexture name="Captain Idle0012" x="3036" y="2" width="473" height="559" frameX="-3" frameY="0" frameWidth="478" frameHeight="559"/>
+	<SubTexture name="Captain Idle0013" x="3036" y="2" width="473" height="559" frameX="-3" frameY="0" frameWidth="478" frameHeight="559"/>
+	<SubTexture name="Captain Laugh0000" x="3511" y="2" width="441" height="557" frameX="-4" frameY="-2" frameWidth="449" frameHeight="559"/>
+	<SubTexture name="Captain Laugh0001" x="3511" y="2" width="441" height="557" frameX="-4" frameY="-2" frameWidth="449" frameHeight="559"/>
+	<SubTexture name="Captain Laugh0002" x="3511" y="2" width="441" height="557" frameX="-4" frameY="-2" frameWidth="449" frameHeight="559"/>
+	<SubTexture name="Captain Laugh0003" x="2" y="563" width="449" height="558" frameX="0" frameY="0" frameWidth="449" frameHeight="559"/>
+	<SubTexture name="Captain Laugh0004" x="2" y="563" width="449" height="558" frameX="0" frameY="0" frameWidth="449" frameHeight="559"/>
+	<SubTexture name="Captain Laugh0005" x="2" y="563" width="449" height="558" frameX="0" frameY="0" frameWidth="449" frameHeight="559"/>
+	<SubTexture name="Captain Laugh0006" x="2" y="563" width="449" height="558" frameX="0" frameY="0" frameWidth="449" frameHeight="559"/>
+	<SubTexture name="Captain Laugh0007" x="2" y="563" width="449" height="558" frameX="0" frameY="0" frameWidth="449" frameHeight="559"/>
+	<SubTexture name="Captain Laugh0008" x="2" y="563" width="449" height="558" frameX="0" frameY="0" frameWidth="449" frameHeight="559"/>
+	<SubTexture name="Captain Laugh0009" x="2" y="563" width="449" height="558" frameX="0" frameY="0" frameWidth="449" frameHeight="559"/>
+	<SubTexture name="Captain Laugh0010" x="2" y="563" width="449" height="558" frameX="0" frameY="0" frameWidth="449" frameHeight="559"/>
+	<SubTexture name="Captain Laugh0011" x="2" y="563" width="449" height="558" frameX="0" frameY="0" frameWidth="449" frameHeight="559"/>
+	<SubTexture name="Captain Laugh0012" x="2" y="563" width="449" height="558" frameX="0" frameY="0" frameWidth="449" frameHeight="559"/>
+	<SubTexture name="Captain Laugh0013" x="2" y="563" width="449" height="558" frameX="0" frameY="0" frameWidth="449" frameHeight="559"/>
+	<SubTexture name="Captain Laugh0014" x="2" y="563" width="449" height="558" frameX="0" frameY="0" frameWidth="449" frameHeight="559"/>
+	<SubTexture name="Captain Left0000" x="453" y="563" width="515" height="557" frameX="0" frameY="0" frameWidth="530" frameHeight="557"/>
+	<SubTexture name="Captain Left0001" x="453" y="563" width="515" height="557" frameX="0" frameY="0" frameWidth="530" frameHeight="557"/>
+	<SubTexture name="Captain Left0002" x="970" y="563" width="510" height="555" frameX="-20" frameY="-2" frameWidth="530" frameHeight="557"/>
+	<SubTexture name="Captain Left0003" x="970" y="563" width="510" height="555" frameX="-20" frameY="-2" frameWidth="530" frameHeight="557"/>
+	<SubTexture name="Captain Left0004" x="970" y="563" width="510" height="555" frameX="-20" frameY="-2" frameWidth="530" frameHeight="557"/>
+	<SubTexture name="Captain Left0005" x="970" y="563" width="510" height="555" frameX="-20" frameY="-2" frameWidth="530" frameHeight="557"/>
+	<SubTexture name="Captain Left0006" x="970" y="563" width="510" height="555" frameX="-20" frameY="-2" frameWidth="530" frameHeight="557"/>
+	<SubTexture name="Captain Left0007" x="970" y="563" width="510" height="555" frameX="-20" frameY="-2" frameWidth="530" frameHeight="557"/>
+	<SubTexture name="Captain Left0008" x="970" y="563" width="510" height="555" frameX="-20" frameY="-2" frameWidth="530" frameHeight="557"/>
+	<SubTexture name="Captain Left0009" x="970" y="563" width="510" height="555" frameX="-20" frameY="-2" frameWidth="530" frameHeight="557"/>
+	<SubTexture name="Captain Left0010" x="970" y="563" width="510" height="555" frameX="-20" frameY="-2" frameWidth="530" frameHeight="557"/>
+	<SubTexture name="Captain Left0011" x="970" y="563" width="510" height="555" frameX="-20" frameY="-2" frameWidth="530" frameHeight="557"/>
+	<SubTexture name="Captain Left0012" x="970" y="563" width="510" height="555" frameX="-20" frameY="-2" frameWidth="530" frameHeight="557"/>
+	<SubTexture name="Captain Left0013" x="970" y="563" width="510" height="555" frameX="-20" frameY="-2" frameWidth="530" frameHeight="557"/>
+	<SubTexture name="Captain PEW PEW PEW0000" x="1482" y="563" width="462" height="558" frameX="-103" frameY="-142" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0001" x="1482" y="563" width="462" height="558" frameX="-103" frameY="-142" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0002" x="1946" y="563" width="454" height="557" frameX="-86" frameY="-143" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0003" x="1946" y="563" width="454" height="557" frameX="-86" frameY="-143" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0004" x="2402" y="563" width="546" height="571" frameX="-2" frameY="-129" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0005" x="2402" y="563" width="546" height="571" frameX="-2" frameY="-129" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0006" x="2950" y="563" width="548" height="566" frameX="0" frameY="-134" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0007" x="2950" y="563" width="548" height="566" frameX="0" frameY="-134" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0008" x="2950" y="563" width="548" height="566" frameX="0" frameY="-134" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0009" x="2950" y="563" width="548" height="566" frameX="0" frameY="-134" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0010" x="2402" y="563" width="546" height="571" frameX="-2" frameY="-129" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0011" x="2402" y="563" width="546" height="571" frameX="-2" frameY="-129" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0012" x="2950" y="563" width="548" height="566" frameX="0" frameY="-134" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0013" x="2950" y="563" width="548" height="566" frameX="0" frameY="-134" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0014" x="3500" y="563" width="548" height="566" frameX="0" frameY="-134" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0015" x="3500" y="563" width="548" height="566" frameX="0" frameY="-134" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0016" x="3500" y="563" width="548" height="566" frameX="0" frameY="-134" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0017" x="3500" y="563" width="548" height="566" frameX="0" frameY="-134" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0018" x="3500" y="563" width="548" height="566" frameX="0" frameY="-134" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0019" x="2" y="1136" width="520" height="577" frameX="-37" frameY="-123" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0020" x="2" y="1136" width="520" height="577" frameX="-37" frameY="-123" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0021" x="524" y="1136" width="715" height="562" frameX="-158" frameY="-139" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0022" x="524" y="1136" width="715" height="562" frameX="-158" frameY="-139" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0023" x="1241" y="1136" width="710" height="562" frameX="-157" frameY="-139" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0024" x="1241" y="1136" width="710" height="562" frameX="-157" frameY="-139" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0025" x="1953" y="1136" width="710" height="562" frameX="-157" frameY="-139" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0026" x="1953" y="1136" width="710" height="562" frameX="-157" frameY="-139" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0027" x="1953" y="1136" width="710" height="562" frameX="-157" frameY="-139" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0028" x="1953" y="1136" width="710" height="562" frameX="-157" frameY="-139" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0029" x="1953" y="1136" width="710" height="562" frameX="-157" frameY="-139" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0030" x="1953" y="1136" width="710" height="562" frameX="-157" frameY="-139" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0031" x="2665" y="1136" width="710" height="562" frameX="-157" frameY="-139" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0032" x="2665" y="1136" width="710" height="562" frameX="-157" frameY="-139" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0033" x="2" y="1715" width="764" height="550" frameX="-152" frameY="-152" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0034" x="2" y="1715" width="764" height="550" frameX="-152" frameY="-152" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0035" x="768" y="1715" width="857" height="701" frameX="-156" frameY="0" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0036" x="1627" y="1715" width="901" height="699" frameX="-156" frameY="-2" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0037" x="2530" y="1715" width="563" height="699" frameX="-156" frameY="-2" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0038" x="3095" y="1715" width="563" height="699" frameX="-156" frameY="-2" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0039" x="3095" y="1715" width="563" height="699" frameX="-156" frameY="-2" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0040" x="3095" y="1715" width="563" height="699" frameX="-156" frameY="-2" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0041" x="2" y="2418" width="630" height="627" frameX="-156" frameY="-74" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0042" x="2" y="2418" width="630" height="627" frameX="-156" frameY="-74" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0043" x="2665" y="1136" width="710" height="562" frameX="-157" frameY="-139" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0044" x="2665" y="1136" width="710" height="562" frameX="-157" frameY="-139" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0045" x="2" y="1715" width="764" height="550" frameX="-152" frameY="-152" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0046" x="2" y="1715" width="764" height="550" frameX="-152" frameY="-152" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0047" x="768" y="1715" width="857" height="701" frameX="-156" frameY="0" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0048" x="1627" y="1715" width="901" height="699" frameX="-156" frameY="-2" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0049" x="2530" y="1715" width="563" height="699" frameX="-156" frameY="-2" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain PEW PEW PEW0050" x="3095" y="1715" width="563" height="699" frameX="-156" frameY="-2" frameWidth="1057" frameHeight="702"/>
+	<SubTexture name="Captain Right0000" x="634" y="2418" width="538" height="556" frameX="-12" frameY="-1" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="Captain Right0001" x="634" y="2418" width="538" height="556" frameX="-12" frameY="-1" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="Captain Right0002" x="1174" y="2418" width="519" height="557" frameX="0" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="Captain Right0003" x="1174" y="2418" width="519" height="557" frameX="0" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="Captain Right0004" x="1174" y="2418" width="519" height="557" frameX="0" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="Captain Right0005" x="1174" y="2418" width="519" height="557" frameX="0" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="Captain Right0006" x="1174" y="2418" width="519" height="557" frameX="0" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="Captain Right0007" x="1174" y="2418" width="519" height="557" frameX="0" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="Captain Right0008" x="1174" y="2418" width="519" height="557" frameX="0" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="Captain Right0009" x="1174" y="2418" width="519" height="557" frameX="0" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="Captain Right0010" x="1174" y="2418" width="519" height="557" frameX="0" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="Captain Right0011" x="1174" y="2418" width="519" height="557" frameX="0" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="Captain Right0012" x="1174" y="2418" width="519" height="557" frameX="0" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="Captain Right0013" x="1174" y="2418" width="519" height="557" frameX="0" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="Captain UGH0000" x="1695" y="2418" width="407" height="553" frameX="0" frameY="-7" frameWidth="416" frameHeight="560"/>
+	<SubTexture name="Captain UGH0001" x="1695" y="2418" width="407" height="553" frameX="0" frameY="-7" frameWidth="416" frameHeight="560"/>
+	<SubTexture name="Captain UGH0002" x="2104" y="2418" width="399" height="559" frameX="-15" frameY="-1" frameWidth="416" frameHeight="560"/>
+	<SubTexture name="Captain UGH0003" x="2104" y="2418" width="399" height="559" frameX="-15" frameY="-1" frameWidth="416" frameHeight="560"/>
+	<SubTexture name="Captain UGH0004" x="2505" y="2418" width="401" height="560" frameX="-15" frameY="0" frameWidth="416" frameHeight="560"/>
+	<SubTexture name="Captain UGH0005" x="2505" y="2418" width="401" height="560" frameX="-15" frameY="0" frameWidth="416" frameHeight="560"/>
+	<SubTexture name="Captain UGH0006" x="2908" y="2418" width="401" height="560" frameX="-15" frameY="0" frameWidth="416" frameHeight="560"/>
+	<SubTexture name="Captain UGH0007" x="2908" y="2418" width="401" height="560" frameX="-15" frameY="0" frameWidth="416" frameHeight="560"/>
+	<SubTexture name="Captain UGH0008" x="2908" y="2418" width="401" height="560" frameX="-15" frameY="0" frameWidth="416" frameHeight="560"/>
+	<SubTexture name="Captain UGH0009" x="2908" y="2418" width="401" height="560" frameX="-15" frameY="0" frameWidth="416" frameHeight="560"/>
+	<SubTexture name="Captain UGH0010" x="2908" y="2418" width="401" height="560" frameX="-15" frameY="0" frameWidth="416" frameHeight="560"/>
+	<SubTexture name="Captain UGH0011" x="2908" y="2418" width="401" height="560" frameX="-15" frameY="0" frameWidth="416" frameHeight="560"/>
+	<SubTexture name="Captain UGH0012" x="2908" y="2418" width="401" height="560" frameX="-15" frameY="0" frameWidth="416" frameHeight="560"/>
+	<SubTexture name="Captain UGH0013" x="2908" y="2418" width="401" height="560" frameX="-15" frameY="0" frameWidth="416" frameHeight="560"/>
+	<SubTexture name="Captain UGH0014" x="2908" y="2418" width="401" height="560" frameX="-15" frameY="0" frameWidth="416" frameHeight="560"/>
+	<SubTexture name="Captain UGH0015" x="2908" y="2418" width="401" height="560" frameX="-15" frameY="0" frameWidth="416" frameHeight="560"/>
+	<SubTexture name="Captain Up0000" x="3311" y="2418" width="532" height="613"/>
+	<SubTexture name="Captain Up0001" x="3311" y="2418" width="532" height="613"/>
+	<SubTexture name="Captain Up0002" x="2" y="3047" width="526" height="603" frameX="-6" frameY="-10" frameWidth="532" frameHeight="613"/>
+	<SubTexture name="Captain Up0003" x="2" y="3047" width="526" height="603" frameX="-6" frameY="-10" frameWidth="532" frameHeight="613"/>
+	<SubTexture name="Captain Up0004" x="2" y="3047" width="526" height="603" frameX="-6" frameY="-10" frameWidth="532" frameHeight="613"/>
+	<SubTexture name="Captain Up0005" x="2" y="3047" width="526" height="603" frameX="-6" frameY="-10" frameWidth="532" frameHeight="613"/>
+	<SubTexture name="Captain Up0006" x="2" y="3047" width="526" height="603" frameX="-6" frameY="-10" frameWidth="532" frameHeight="613"/>
+	<SubTexture name="Captain Up0007" x="2" y="3047" width="526" height="603" frameX="-6" frameY="-10" frameWidth="532" frameHeight="613"/>
+	<SubTexture name="Captain Up0008" x="2" y="3047" width="526" height="603" frameX="-6" frameY="-10" frameWidth="532" frameHeight="613"/>
+	<SubTexture name="Captain Up0009" x="2" y="3047" width="526" height="603" frameX="-6" frameY="-10" frameWidth="532" frameHeight="613"/>
+	<SubTexture name="Captain Up0010" x="2" y="3047" width="526" height="603" frameX="-6" frameY="-10" frameWidth="532" frameHeight="613"/>
+	<SubTexture name="Captain Up0011" x="2" y="3047" width="526" height="603" frameX="-6" frameY="-10" frameWidth="532" frameHeight="613"/>
+	<SubTexture name="Captain Up0012" x="2" y="3047" width="526" height="603" frameX="-6" frameY="-10" frameWidth="532" frameHeight="613"/>
+	<SubTexture name="Captain Up0013" x="2" y="3047" width="526" height="603" frameX="-6" frameY="-10" frameWidth="532" frameHeight="613"/>
+</TextureAtlas>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="butzRunning.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Butz Runnin0000" x="397" y="2" width="393" height="424"/>
+	<SubTexture name="Butz Runnin0001" x="397" y="2" width="393" height="424"/>
+	<SubTexture name="Butz Runnin0002" x="1462" y="1236" width="353" height="409" frameX="-24" frameY="-6" frameWidth="393" frameHeight="424"/>
+	<SubTexture name="Butz Runnin0003" x="1542" y="2" width="353" height="409" frameX="-24" frameY="-6" frameWidth="393" frameHeight="424"/>
+	<SubTexture name="Butz Runnin0004" x="792" y="423" width="393" height="419" frameX="0" frameY="-5" frameWidth="393" frameHeight="424"/>
+	<SubTexture name="Butz Runnin0005" x="792" y="423" width="393" height="419" frameX="0" frameY="-5" frameWidth="393" frameHeight="424"/>
+	<SubTexture name="Butz Runnin0006" x="397" y="1265" width="353" height="415" frameX="-24" frameY="0" frameWidth="393" frameHeight="424"/>
+	<SubTexture name="Butz Runnin0007" x="2" y="1268" width="353" height="415" frameX="-24" frameY="0" frameWidth="393" frameHeight="424"/>
+	<SubTexture name="Butz Runnin0008" x="792" y="844" width="393" height="418" frameX="0" frameY="-6" frameWidth="393" frameHeight="424"/>
+	<SubTexture name="Butz Runnin0009" x="2" y="848" width="393" height="418" frameX="0" frameY="-6" frameWidth="393" frameHeight="424"/>
+	<SubTexture name="Butz Runnin0010" x="1187" y="2" width="353" height="410" frameX="-24" frameY="-5" frameWidth="393" frameHeight="424"/>
+	<SubTexture name="Butz Runnin0011" x="1187" y="2" width="353" height="410" frameX="-24" frameY="-5" frameWidth="393" frameHeight="424"/>
+	<SubTexture name="Butz Runnin Alt0000" x="2" y="2" width="393" height="424"/>
+	<SubTexture name="Butz Runnin Alt0001" x="2" y="2" width="393" height="424"/>
+	<SubTexture name="Butz Runnin Alt0002" x="1187" y="414" width="353" height="409" frameX="-24" frameY="-6" frameWidth="393" frameHeight="424"/>
+	<SubTexture name="Butz Runnin Alt0003" x="1187" y="825" width="353" height="409" frameX="-24" frameY="-6" frameWidth="393" frameHeight="424"/>
+	<SubTexture name="Butz Runnin Alt0004" x="792" y="2" width="393" height="419" frameX="0" frameY="-5" frameWidth="393" frameHeight="424"/>
+	<SubTexture name="Butz Runnin Alt0005" x="792" y="2" width="393" height="419" frameX="0" frameY="-5" frameWidth="393" frameHeight="424"/>
+	<SubTexture name="Butz Runnin Alt0006" x="397" y="848" width="353" height="415" frameX="-24" frameY="0" frameWidth="393" frameHeight="424"/>
+	<SubTexture name="Butz Runnin Alt0007" x="752" y="1264" width="353" height="415" frameX="-24" frameY="0" frameWidth="393" frameHeight="424"/>
+	<SubTexture name="Butz Runnin Alt0008" x="2" y="428" width="393" height="418" frameX="0" frameY="-6" frameWidth="393" frameHeight="424"/>
+	<SubTexture name="Butz Runnin Alt0009" x="397" y="428" width="393" height="418" frameX="0" frameY="-6" frameWidth="393" frameHeight="424"/>
+	<SubTexture name="Butz Runnin Alt0010" x="1107" y="1264" width="353" height="410" frameX="-24" frameY="-5" frameWidth="393" frameHeight="424"/>
+	<SubTexture name="Butz Runnin Alt0011" x="1107" y="1264" width="353" height="410" frameX="-24" frameY="-5" frameWidth="393" frameHeight="424"/>
+</TextureAtlas>

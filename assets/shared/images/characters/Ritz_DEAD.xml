@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ritz_DEAD.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ritz Dead Confirm0000" x="2" y="2" width="495" height="409" frameX="0" frameY="-48" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0001" x="499" y="2" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0002" x="996" y="2" width="495" height="457"/>
+	<SubTexture name="Ritz Dead Confirm0003" x="1493" y="2" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0004" x="1990" y="2" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0005" x="2487" y="2" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0006" x="2984" y="2" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0007" x="3481" y="2" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0008" x="2" y="461" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0009" x="499" y="461" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0010" x="996" y="461" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0011" x="1493" y="461" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0012" x="1990" y="461" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0013" x="2487" y="461" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0014" x="2984" y="461" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0015" x="3481" y="461" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0016" x="2" y="890" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0017" x="499" y="890" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0018" x="996" y="890" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0019" x="1493" y="890" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0020" x="1990" y="890" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0021" x="2487" y="890" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0022" x="2984" y="890" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0023" x="2984" y="890" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0024" x="2984" y="890" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0025" x="2984" y="890" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0026" x="2984" y="890" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0027" x="2984" y="890" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0028" x="2984" y="890" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0029" x="2984" y="890" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0030" x="2984" y="890" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0031" x="2984" y="890" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0032" x="2984" y="890" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Confirm0033" x="2984" y="890" width="495" height="427" frameX="0" frameY="-30" frameWidth="495" frameHeight="457"/>
+	<SubTexture name="Ritz Dead Loop0000" x="3481" y="890" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0001" x="2" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0002" x="2" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0003" x="500" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0004" x="500" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0005" x="998" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0006" x="998" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0007" x="1496" y="1319" width="502" height="409"/>
+	<SubTexture name="Ritz Dead Loop0008" x="2000" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0009" x="2000" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0010" x="2000" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0011" x="2000" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0012" x="2000" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0013" x="2000" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0014" x="2000" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0015" x="2000" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0016" x="2000" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0017" x="3481" y="890" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0018" x="2" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0019" x="2" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0020" x="500" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0021" x="500" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0022" x="998" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0023" x="998" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0024" x="2000" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0025" x="2000" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0026" x="2000" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0027" x="2000" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0028" x="2000" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0029" x="2000" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0030" x="2000" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0031" x="2000" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0032" x="2000" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dead Loop0033" x="2000" y="1319" width="496" height="409" frameX="-6" frameY="0" frameWidth="502" frameHeight="409"/>
+	<SubTexture name="Ritz Dies0000" x="2498" y="1319" width="416" height="403" frameX="0" frameY="-6" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0001" x="2916" y="1319" width="416" height="403" frameX="0" frameY="-6" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0002" x="3334" y="1319" width="409" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0003" x="3334" y="1319" width="409" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0004" x="2" y="1730" width="409" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0005" x="2" y="1730" width="409" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0006" x="413" y="1730" width="409" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0007" x="824" y="1730" width="409" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0008" x="824" y="1730" width="409" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0009" x="824" y="1730" width="409" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0010" x="824" y="1730" width="409" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0011" x="824" y="1730" width="409" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0012" x="824" y="1730" width="409" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0013" x="824" y="1730" width="409" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0014" x="824" y="1730" width="409" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0015" x="1235" y="1730" width="409" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0016" x="1235" y="1730" width="409" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0017" x="1235" y="1730" width="409" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0018" x="1646" y="1730" width="412" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0019" x="1646" y="1730" width="412" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0020" x="2060" y="1730" width="414" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0021" x="2060" y="1730" width="414" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0022" x="2476" y="1730" width="418" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0023" x="2476" y="1730" width="418" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0024" x="2896" y="1730" width="433" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0025" x="3331" y="1730" width="484" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0026" x="3331" y="1730" width="484" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0027" x="2" y="2141" width="490" height="411" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0028" x="2" y="2141" width="490" height="411" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0029" x="494" y="2141" width="490" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0030" x="494" y="2141" width="490" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0031" x="986" y="2141" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0032" x="986" y="2141" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0033" x="1484" y="2141" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0034" x="1982" y="2141" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0035" x="1982" y="2141" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0036" x="1982" y="2141" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0037" x="1982" y="2141" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0038" x="2480" y="2141" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0039" x="2480" y="2141" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0040" x="2480" y="2141" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0041" x="2480" y="2141" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0042" x="2978" y="2141" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0043" x="2978" y="2141" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0044" x="2978" y="2141" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0045" x="2978" y="2141" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0046" x="3476" y="2141" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0047" x="3476" y="2141" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0048" x="3476" y="2141" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0049" x="3476" y="2141" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0050" x="2" y="2554" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0051" x="2" y="2554" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0052" x="2" y="2554" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0053" x="2" y="2554" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0054" x="500" y="2554" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0055" x="500" y="2554" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0056" x="500" y="2554" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+	<SubTexture name="Ritz Dies0057" x="500" y="2554" width="496" height="409" frameX="-4" frameY="0" frameWidth="500" frameHeight="411"/>
+</TextureAtlas>

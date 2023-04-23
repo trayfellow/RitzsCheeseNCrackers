@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Butz Idle Bounce",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-25
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Butz Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-91
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Butz Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				18
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Butz Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-19
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Butz Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Butz",
+	"position": [
+		-155,
+		240
+	],
+	"healthicon": "butz",
+	"flip_x": false,
+	"healthbar_colors": [
+		198,
+		132,
+		252
+	],
+	"camera_position": [
+		90,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

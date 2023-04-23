@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chara2.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="animation0000" x="2" y="2" width="829" height="698" frameX="-2" frameY="-49" frameWidth="832" frameHeight="747"/>
+	<SubTexture name="animation0001" x="2" y="2" width="829" height="698" frameX="-2" frameY="-49" frameWidth="832" frameHeight="747"/>
+	<SubTexture name="animation0002" x="2" y="2" width="829" height="698" frameX="-2" frameY="-49" frameWidth="832" frameHeight="747"/>
+	<SubTexture name="animation0003" x="833" y="2" width="832" height="696" frameX="0" frameY="-51" frameWidth="832" frameHeight="747"/>
+	<SubTexture name="animation0004" x="833" y="2" width="832" height="696" frameX="0" frameY="-51" frameWidth="832" frameHeight="747"/>
+	<SubTexture name="animation0005" x="833" y="2" width="832" height="696" frameX="0" frameY="-51" frameWidth="832" frameHeight="747"/>
+	<SubTexture name="animation0006" x="2" y="702" width="811" height="733" frameX="-10" frameY="-2" frameWidth="832" frameHeight="747"/>
+	<SubTexture name="animation0007" x="2" y="702" width="811" height="733" frameX="-10" frameY="-2" frameWidth="832" frameHeight="747"/>
+	<SubTexture name="animation0008" x="2" y="702" width="811" height="733" frameX="-10" frameY="-2" frameWidth="832" frameHeight="747"/>
+	<SubTexture name="animation0009" x="815" y="702" width="815" height="735" frameX="-9" frameY="0" frameWidth="832" frameHeight="747"/>
+	<SubTexture name="animation0010" x="815" y="702" width="815" height="735" frameX="-9" frameY="0" frameWidth="832" frameHeight="747"/>
+	<SubTexture name="animation0011" x="815" y="702" width="815" height="735" frameX="-9" frameY="0" frameWidth="832" frameHeight="747"/>
+	<SubTexture name="animation0012" x="2" y="1439" width="810" height="717" frameX="-11" frameY="-17" frameWidth="832" frameHeight="747"/>
+	<SubTexture name="animation0013" x="2" y="1439" width="810" height="717" frameX="-11" frameY="-17" frameWidth="832" frameHeight="747"/>
+	<SubTexture name="animation0014" x="2" y="1439" width="810" height="717" frameX="-11" frameY="-17" frameWidth="832" frameHeight="747"/>
+	<SubTexture name="animation0015" x="814" y="1439" width="810" height="719" frameX="-11" frameY="-15" frameWidth="832" frameHeight="747"/>
+	<SubTexture name="animation0016" x="814" y="1439" width="810" height="719" frameX="-11" frameY="-15" frameWidth="832" frameHeight="747"/>
+	<SubTexture name="animation0017" x="814" y="1439" width="810" height="719" frameX="-11" frameY="-15" frameWidth="832" frameHeight="747"/>
+	<SubTexture name="animation0018" x="814" y="1439" width="810" height="719" frameX="-11" frameY="-15" frameWidth="832" frameHeight="747"/>
+	<SubTexture name="animation0019" x="814" y="1439" width="810" height="719" frameX="-11" frameY="-15" frameWidth="832" frameHeight="747"/>
+	<SubTexture name="animation0020" x="814" y="1439" width="810" height="719" frameX="-11" frameY="-15" frameWidth="832" frameHeight="747"/>
+	<SubTexture name="animation0021" x="814" y="1439" width="810" height="719" frameX="-11" frameY="-15" frameWidth="832" frameHeight="747"/>
+	<SubTexture name="animation0022" x="814" y="1439" width="810" height="719" frameX="-11" frameY="-15" frameWidth="832" frameHeight="747"/>
+	<SubTexture name="animation0023" x="814" y="1439" width="810" height="719" frameX="-11" frameY="-15" frameWidth="832" frameHeight="747"/>
+</TextureAtlas>

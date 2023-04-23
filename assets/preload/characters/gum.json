@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Gum Idle"
+		},
+		{
+			"offsets": [
+				12,
+				-44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Gum Left Pose"
+		},
+		{
+			"offsets": [
+				35,
+				-166
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Gum Down Pose"
+		},
+		{
+			"offsets": [
+				-82,
+				-92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Gum Right Pose"
+		},
+		{
+			"offsets": [
+				-22,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Gum Up Pose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Gum",
+	"position": [
+		20,
+		40
+	],
+	"healthicon": "gum",
+	"flip_x": false,
+	"healthbar_colors": [
+		105,
+		247,
+		0
+	],
+	"camera_position": [
+		-20,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
