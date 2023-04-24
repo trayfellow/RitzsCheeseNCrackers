@@ -51,17 +51,17 @@ class MainMenuState extends MusicBeatState
 		'story_mode',
 		'ritz_mode',
 		'freeplay',
-		#if MODS_ALLOWED 'mods', #end
+		/*You might wanna use the master editor to access the mod menu instead
+		#if MODS_ALLOWED 'mods', #end*/
 		#if ACHIEVEMENTS_ALLOWED 'awards', #end
-		/* grrr..... how dare you hide the button that lets you support the fnf developers....
+		/*Grrr..... how dare you hide the button that lets you support the fnf developers....
 		#if !switch 'donate', #end*/
 		'options'
 	];
-	var easterEggKeys:Array<String> = [
-		'JETSETRADIO'
-	];
-	var allowedKeys:String = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
-	var easterEggKeysBuffer:String = '';
+	var ratTrapCode:Array<String> = ['J', 'E', 'T', 'S', 'E', 'T', 'R', 'A', 'D', 'I', 'O'];
+	var ratTrapCodeCurArray:Int = 0;
+	var keyLists:String = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+	var keyListsBuffer:String = '';
 
 	var magenta:AttachedSprite;
 	var camFollow:FlxObject;
@@ -306,68 +306,21 @@ class MainMenuState extends MusicBeatState
 			{
 				var keyPressed:FlxKey = FlxG.keys.firstJustPressed();
 				var keyName:String = Std.string(keyPressed);
-				if(allowedKeys.contains(keyName)) {
-					easterEggKeysBuffer += keyName;
-					if(easterEggKeysBuffer.length >= 32) easterEggKeysBuffer = easterEggKeysBuffer.substring(1);
-					//trace('Test! Allowed Key pressed!!! Buffer: ' + easterEggKeysBuffer);
 
-					for (wordRaw in easterEggKeys)
-					{
-						var word:String = wordRaw.toUpperCase(); //just for being sure you're doing it right
-						if (easterEggKeysBuffer.contains(word))
-						{
-							selectedSomethin = true;
-							easterEggKeysBuffer = '';
-							
-							FlxG.sound.music.fadeOut(0.5, 0);
+				if (keyLists.contains(keyName)) keyListsBuffer = keyName;
 
-							magenta.color = 0xFF69F700;
-							
-							bgTween.cancel();
-							mainMenuBG.setPosition(-1500,- 714);
-
-							FlxTween.tween(menuChars.offset, {x: menuChars.offset.x + 1000}, 0.6, {ease: FlxEase.backInOut});
-							menuItems.forEach(function(spr:FlxSprite)
-							{
-								FlxTween.tween(spr.offset, {x: spr.offset.x - 1000}, 0.6, {ease: FlxEase.backInOut});
-							});
-							versionItems.forEach(function(txt:FlxText)
-							{
-								FlxTween.tween(txt.offset, {x: txt.offset.x + 1000}, 0.6, {ease: FlxEase.backInOut});
-							});
-
-							new FlxTimer().start(0.5, function(tmr:FlxTimer)
-							{
-								FlxG.sound.play(Paths.sound('JET-SET-RADIOOOOOO'));
-
-								new FlxTimer().start(4.15, function(tmr:FlxTimer)
-								{
-									bgTween = FlxTween.tween(mainMenuBG, {x: -924, y: -392}, 1.4, {type: LOOPING});
-
-									if(ClientPrefs.flashing)
-									{
-										FlxFlicker.flicker(magenta, 0, 0.15, false);
-									}
-								});
-
-								new FlxTimer().start(7.1667, function(tmr:FlxTimer)
-								{
-									WeekData.reloadWeekFiles(true);
-									PlayState.isStoryMode = true;
-									PlayState.storyWeek = 2;
-									CoolUtil.difficulties = CoolUtil.defaultDifficulties.copy();
-		
-									PlayState.SONG = Song.loadFromJson('rat-trap', 'rat-trap');
-									PlayState.storyDifficulty = 1;
-		
-									LoadingState.loadAndSwitchState(new PlayState());
-								});		
-							});
-
-							break;
-						}
-					}
+				if (keyListsBuffer == ratTrapCode[ratTrapCodeCurArray])
+				{
+					FlxG.sound.play(Paths.sound('Metronome_Tick'));
+					ratTrapCodeCurArray++;
 				}
+				else
+					ratTrapCodeCurArray = 0;
+
+				if (ratTrapCodeCurArray == ratTrapCode.length - 1)
+				{
+					ratTrapEntrance();
+				} 
 			}
 			#end
 		}
@@ -422,6 +375,57 @@ class MainMenuState extends MusicBeatState
 						spr.offset.x = -110;
 				}	
 			}
+		});
+	}
+
+	function ratTrapEntrance():Void
+	{
+		selectedSomethin = true;
+		
+		FlxG.sound.play(Paths.sound('Metronome_Tick'));
+		FlxG.sound.music.fadeOut(0.5, 0);
+
+		magenta.color = 0xFF69F700;
+		
+		bgTween.cancel();
+		mainMenuBG.setPosition(-1500,- 714);
+
+		FlxTween.tween(menuChars.offset, {x: menuChars.offset.x + 1000}, 0.6, {ease: FlxEase.backInOut});
+		menuItems.forEach(function(spr:FlxSprite)
+		{
+			FlxTween.tween(spr.offset, {x: spr.offset.x - 1000}, 0.6, {ease: FlxEase.backInOut});
+		});
+		versionItems.forEach(function(txt:FlxText)
+		{
+			FlxTween.tween(txt.offset, {x: txt.offset.x + 1000}, 0.6, {ease: FlxEase.backInOut});
+		});
+
+		new FlxTimer().start(0.5, function(tmr:FlxTimer)
+		{
+			FlxG.sound.play(Paths.sound('JET-SET-RADIOOOOOO'));
+
+			new FlxTimer().start(4.15, function(tmr:FlxTimer)
+			{
+				bgTween = FlxTween.tween(mainMenuBG, {x: -924, y: -392}, 1.4, {type: LOOPING});
+
+				if(ClientPrefs.flashing)
+				{
+					FlxFlicker.flicker(magenta, 0, 0.15, false);
+				}
+			});
+
+			new FlxTimer().start(7.1667, function(tmr:FlxTimer)
+			{
+				WeekData.reloadWeekFiles(true);
+				PlayState.isStoryMode = true;
+				PlayState.storyWeek = 2;
+				CoolUtil.difficulties = CoolUtil.defaultDifficulties.copy();
+
+				PlayState.SONG = Song.loadFromJson('rat-trap', 'rat-trap');
+				PlayState.storyDifficulty = 1;
+
+				LoadingState.loadAndSwitchState(new PlayState());
+			});		
 		});
 	}
 }

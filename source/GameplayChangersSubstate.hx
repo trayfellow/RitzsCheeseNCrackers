@@ -180,8 +180,11 @@ class GameplayChangersSubstate extends MusicBeatSubstate
 			close();
 			ClientPrefs.saveSettings();
 			FlxG.sound.play(Paths.sound('cancelMenu'));
-			FlxG.camera.zoom = 1.35;
-			StoryMenuState.storyMenuCamTween.active = true;
+			if (PlayState.isStoryMode)
+			{
+				FlxG.camera.zoom = 1.35;
+				StoryMenuState.storyMenuCamTween.active = true;
+			}
 		}
 
 		if(nextAccept <= 0)

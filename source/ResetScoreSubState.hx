@@ -42,21 +42,21 @@ class ResetScoreSubState extends MusicBeatSubstate
 		var text:Alphabet = new Alphabet(0, 180, "Reset the score of", true);
 		text.screenCenter(X);
 		alphabetArray.push(text);
-		if (!PlayState.isStoryMode) bg.alpha = 0;
+		if (!PlayState.isStoryMode) text.alpha = 0;
 		add(text);
 		var text:Alphabet = new Alphabet(0, text.y + 90, name, true);
 		text.scaleX = tooLong;
 		text.screenCenter(X);
 		if(week == -1) text.x += 60 * tooLong;
 		alphabetArray.push(text);
-		if (!PlayState.isStoryMode) bg.alpha = 0;
+		if (!PlayState.isStoryMode) text.alpha = 0;
 		add(text);
 		if(week == -1) {
 			icon = new HealthIcon(character);
 			icon.setGraphicSize(Std.int(icon.width * tooLong));
 			icon.updateHitbox();
 			icon.setPosition(text.x - icon.width + (10 * tooLong), text.y - 30);
-			if (!PlayState.isStoryMode) bg.alpha = 0;
+			if (!PlayState.isStoryMode) icon.alpha = 0;
 			add(icon);
 		}
 
@@ -92,8 +92,11 @@ class ResetScoreSubState extends MusicBeatSubstate
 		}
 		if(controls.BACK) {
 			FlxG.sound.play(Paths.sound('cancelMenu'), 1);
-			FlxG.camera.zoom = 1.35;
-			StoryMenuState.storyMenuCamTween.active = true;
+			if (PlayState.isStoryMode)
+			{
+				FlxG.camera.zoom = 1.35;
+				StoryMenuState.storyMenuCamTween.active = true;
+			}
 			close();
 		} else if(controls.ACCEPT) {
 			if(onYes) {
@@ -104,8 +107,11 @@ class ResetScoreSubState extends MusicBeatSubstate
 				}
 			}
 			FlxG.sound.play(Paths.sound('cancelMenu'), 1);
-			FlxG.camera.zoom = 1.35;
-			StoryMenuState.storyMenuCamTween.active = true;
+			if (PlayState.isStoryMode)
+			{
+				FlxG.camera.zoom = 1.35;
+				StoryMenuState.storyMenuCamTween.active = true;
+			}
 			close();
 		}
 		super.update(elapsed);

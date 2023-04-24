@@ -2730,7 +2730,7 @@ class PlayState extends MusicBeatState
 				clearNotesBefore(Conductor.songPosition);
 			}
 		}
-		#end
+		s#end
 
 		setOnLuas('cameraX', camFollowPos.x);
 		setOnLuas('cameraY', camFollowPos.y);
@@ -2823,7 +2823,7 @@ class PlayState extends MusicBeatState
 
 				startTimer.cancel();
 
-				if(FlxG.random.bool(1) && curStage == 'tank' || curStage == 'cheesePlatformer')
+				if(FlxG.random.bool(1) && boyfriend.curCharacter == 'ritz-player')
 				{
 					// Why 1% though???? its gonna take ages for someone to find this gameover...
 					canPause = false;
@@ -2910,6 +2910,8 @@ class PlayState extends MusicBeatState
 							boyfriend.active = false;
 						};
 
+						FlxG.sound.play(Paths.soundRandom('missnote', 1, 3), FlxG.random.float(0.1, 0.2));
+
 						new FlxTimer().start(0.35, function(tmr:FlxTimer)
 						{
 							FlxG.sound.play(Paths.sound('pre_anvilDeath_noTank'));
@@ -2929,6 +2931,17 @@ class PlayState extends MusicBeatState
 								}
 							});
 						});
+					}
+					else
+					{
+						boyfriend.stunned = true;
+	
+						vocals.stop();
+						FlxG.sound.music.stop();
+	
+						openSubState(new GameOverSubstate(boyfriend.getScreenPosition().x - boyfriend.positionArray[0], boyfriend.getScreenPosition().y - boyfriend.positionArray[1], camFollowPos.x, camFollowPos.y));
+		
+						// MusicBeatState.switchState(new GameOverState(boyfriend.getScreenPosition().x, boyfriend.getScreenPosition().y));
 					}
 				}
 				else
@@ -3496,14 +3509,20 @@ class PlayState extends MusicBeatState
 				if (storyPlaylist.length <= 0)
 				{
 					WeekData.loadTheFirstEnabledMod();
-					FlxG.sound.playMusic(Paths.music('freakyMenu'));
+					
 
 					cancelMusicFadeTween();
 					if(FlxTransitionableState.skipNextTransIn) {
 						CustomFadeTransition.nextCamera = null;
 					}
-					MusicBeatState.switchState(new MainMenuState());
-
+					if (storyWeek == 1)
+						MusicBeatState.switchState(new ThankYouState());
+					else
+					{
+						MusicBeatState.switchState(new MainMenuState());
+						FlxG.sound.playMusic(Paths.music('freakyMenu'));
+					}
+						
 					// if ()
 					if(!ClientPrefs.getGameplaySetting('practice', false) && !ClientPrefs.getGameplaySetting('botplay', false)) {
 						StoryMenuState.weekCompleted.set(WeekData.weeksList[storyWeek], true);

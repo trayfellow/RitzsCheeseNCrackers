@@ -136,7 +136,6 @@ class FreeplayState extends MusicBeatState
 			// DONT PUT X IN THE FIRST PARAMETER OF new ALPHABET() !!
 			// songText.screenCenter(X);
 		}
-		if(Highscore.getScore('Rat Trap', 1) > 0) addSong('rat-trap', 2, 'gum', 7664203);
 		WeekData.setDirectoryFromWeek();
 
 		scoreText = new FlxText(FlxG.width * 0.7, 5, 0, "", 32);
