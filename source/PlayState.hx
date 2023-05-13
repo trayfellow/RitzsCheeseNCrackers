@@ -1069,7 +1069,6 @@ class PlayState extends MusicBeatState
 							camHUD.visible = true;
 							startCountdown();
 						}
-						dad.specialAnim = true;
 					});
 
 				case 'cheddar':
@@ -2730,7 +2729,7 @@ class PlayState extends MusicBeatState
 				clearNotesBefore(Conductor.songPosition);
 			}
 		}
-		s#end
+		#end
 
 		setOnLuas('cameraX', camFollowPos.x);
 		setOnLuas('cameraY', camFollowPos.y);

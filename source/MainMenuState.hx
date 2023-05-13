@@ -317,7 +317,7 @@ class MainMenuState extends MusicBeatState
 				else
 					ratTrapCodeCurArray = 0;
 
-				if (ratTrapCodeCurArray == ratTrapCode.length - 1)
+				if (ratTrapCodeCurArray == ratTrapCode.length)
 				{
 					ratTrapEntrance();
 				} 
@@ -409,9 +409,9 @@ class MainMenuState extends MusicBeatState
 				bgTween = FlxTween.tween(mainMenuBG, {x: -924, y: -392}, 1.4, {type: LOOPING});
 
 				if(ClientPrefs.flashing)
-				{
 					FlxFlicker.flicker(magenta, 0, 0.15, false);
-				}
+				else
+					magenta.visible = true;
 			});
 
 			new FlxTimer().start(7.1667, function(tmr:FlxTimer)
@@ -419,11 +419,9 @@ class MainMenuState extends MusicBeatState
 				WeekData.reloadWeekFiles(true);
 				PlayState.isStoryMode = true;
 				PlayState.storyWeek = 2;
-				CoolUtil.difficulties = CoolUtil.defaultDifficulties.copy();
-
-				PlayState.SONG = Song.loadFromJson('rat-trap', 'rat-trap');
-				PlayState.storyDifficulty = 1;
-
+				CoolUtil.difficulties = ['Hard'];
+				PlayState.SONG = Song.loadFromJson('rat-trap-hard', 'rat-trap');
+				PlayState.storyDifficulty = 0;
 				LoadingState.loadAndSwitchState(new PlayState());
 			});		
 		});

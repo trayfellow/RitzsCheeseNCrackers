@@ -94,7 +94,7 @@
 				-1,
 				10
 			],
-			"anim": "squeezeNdrop",
+			"anim": "squeezeNDrop",
 			"fps": 24,
 			"name": "Ritz Both Sound",
 			"indices": []
