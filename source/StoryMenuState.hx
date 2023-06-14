@@ -35,6 +35,7 @@ class StoryMenuState extends MusicBeatState // I suck at coding so this will suf
 
 	private static var curWeek:Int = 0;
 	public static var selectedWeekFromMainMenu:Int = 0;
+	public static var autoMode:Bool = false;
 	public static var storyMenuCamTween:FlxTween;
 
 	var difficultySelectors:FlxGroup;
@@ -82,13 +83,13 @@ class StoryMenuState extends MusicBeatState // I suck at coding so this will suf
 		for (i in 0...WeekData.weeksList.length)
 		{
 			var weekFile:WeekData = WeekData.weeksLoaded.get(WeekData.weeksList[i]);
-			var isLocked:Bool = weekIsLocked(WeekData.weeksList[i]);
-			if(!isLocked || !weekFile.hiddenUntilUnlocked)
-			{
+			//var isLocked:Bool = weekIsLocked(WeekData.weeksList[i]);
+			//if(!isLocked || !weekFile.hiddenUntilUnlocked)
+			//{
 				loadedWeeks.push(weekFile);
 				WeekData.setDirectoryFromWeek(weekFile);
 				num++;
-			}
+			//}
 		}
 
 		WeekData.setDirectoryFromWeek(loadedWeeks[0]);
@@ -129,6 +130,19 @@ class StoryMenuState extends MusicBeatState // I suck at coding so this will suf
 		changeWeek(selectedWeekFromMainMenu);
 		changeDifficulty();
 
+		var darkness:FlxSprite = new FlxSprite().makeGraphic(FlxG.width * 2, FlxG.height * 2, FlxColor.BLACK);
+		darkness.visible = autoMode;
+		darkness.screenCenter();
+		add(darkness);
+
+		if(autoMode)
+		{
+			new FlxTimer().start(1, function(tmr:FlxTimer)
+			{
+				selectWeek();
+			});
+		}
+
 		super.create();
 	}
 
@@ -149,7 +163,7 @@ class StoryMenuState extends MusicBeatState // I suck at coding so this will suf
 
 		// FlxG.watch.addQuick('font', scoreText.font);
 
-		if (!movedBack && !selectedWeek)
+		if (!movedBack && !selectedWeek && !autoMode)
 		{
 			var upP = controls.UI_UP_P;
 			var downP = controls.UI_DOWN_P;
@@ -192,7 +206,7 @@ class StoryMenuState extends MusicBeatState // I suck at coding so this will suf
 			}
 		}
 
-		if (controls.BACK && !movedBack && !selectedWeek)
+		if (controls.BACK && !movedBack && !selectedWeek && !autoMode)
 		{
 			FlxG.sound.play(Paths.sound('cancelMenu'));
 			movedBack = true;
@@ -208,11 +222,11 @@ class StoryMenuState extends MusicBeatState // I suck at coding so this will suf
 
 	function selectWeek()
 	{
-		if (!weekIsLocked(loadedWeeks[curWeek].fileName))
-		{
+		//if (!weekIsLocked(loadedWeeks[curWeek].fileName))
+		//{
 			if (stopspamming == false)
 			{
-				FlxG.sound.play(Paths.sound('confirmMenu'));
+				if(!autoMode) FlxG.sound.play(Paths.sound('confirmMenu'));
 				FlxFlicker.flicker(sprDifficulty, 1, 0.06, true, false);
 				stopspamming = true;
 			}
@@ -242,9 +256,9 @@ class StoryMenuState extends MusicBeatState // I suck at coding so this will suf
 				LoadingState.loadAndSwitchState(new PlayState(), true);
 				FreeplayState.destroyFreeplayVocals();
 			});
-		} else {
+		/*} else {
 			FlxG.sound.play(Paths.sound('cancelMenu'));
-		}
+		}*/
 	}
 
 	var tweenDifficulty:FlxTween;
@@ -301,14 +315,14 @@ class StoryMenuState extends MusicBeatState // I suck at coding so this will suf
 
 		var bullShit:Int = 0;
 
-		var unlocked:Bool = !weekIsLocked(leWeek.fileName);
+		//var unlocked:Bool = !weekIsLocked(leWeek.fileName);
 
 		PlayState.storyWeek = curWeek;
 
 		CoolUtil.difficulties = CoolUtil.defaultDifficulties.copy();
 		var diffStr:String = WeekData.getCurrentWeek().difficulties;
 		if(diffStr != null) diffStr = diffStr.trim(); //Fuck you HTML5
-		difficultySelectors.visible = unlocked;
+		//difficultySelectors.visible = unlocked;
 
 		if(diffStr != null && diffStr.length > 0)
 		{

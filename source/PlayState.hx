@@ -451,7 +451,7 @@ class PlayState extends MusicBeatState
 		if(SONG.stage == null || SONG.stage.length < 1) {
 			switch (songName)
 			{
-				case 'cheddar' | 'retro' | 'squeeze' | 'rizz' | 'checkpoint':
+				case 'cheddar' | 'retro' | 'squeeze' | 'lovebust' | 'checkpoint':
 					curStage = 'cheesePlatformer';
 				case '7v7':
 					curStage = 'tank';
@@ -539,7 +539,7 @@ class PlayState extends MusicBeatState
 				dadbattleSmokes = new FlxSpriteGroup(); //troll'd
 
 			case 'cheesePlatformer':				
-				if (Paths.formatToSongPath(SONG.song) == 'rizz' || Paths.formatToSongPath(SONG.song) == 'checkpoint')
+				if (Paths.formatToSongPath(SONG.song) == 'lovebust' || Paths.formatToSongPath(SONG.song) == 'checkpoint')
 				{
 					GameOverSubstate.loopSoundName = 'ritzGameOver';
 					GameOverSubstate.endSoundName = 'ritzGameOverEnd';
@@ -1073,7 +1073,7 @@ class PlayState extends MusicBeatState
 
 				case 'cheddar':
 					initPostCard('ritz');
-				case 'rizz':
+				case 'lovebust':
 					initPostCard('ritza');
 				case 'checkpoint':
 					initPostCard('butz');

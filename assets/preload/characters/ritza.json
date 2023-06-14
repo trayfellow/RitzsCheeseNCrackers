@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Ritza Idle Bop"
+			"fps": 24,
+			"name": "Ritza Idle Bop",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				40,
 				6
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Ritza Left Pose"
+			"fps": 24,
+			"name": "Ritza Left Pose",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-52,
 				-136
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Ritza Down Pose"
+			"fps": 24,
+			"name": "Ritza Down Pose",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-23,
 				34
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Ritza Up Pose"
+			"fps": 24,
+			"name": "Ritza Up Pose",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-50,
 				-34
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Ritza Right Pose"
+			"fps": 24,
+			"name": "Ritza Right Pose",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -71,7 +71,7 @@
 	],
 	"camera_position": [
 		210,
-		-10
+		150
 	],
 	"sing_duration": 4,
 	"scale": 1

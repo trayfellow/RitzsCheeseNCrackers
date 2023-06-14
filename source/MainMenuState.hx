@@ -58,6 +58,7 @@ class MainMenuState extends MusicBeatState
 		#if !switch 'donate', #end*/
 		'options'
 	];
+	
 	var ratTrapCode:Array<String> = ['J', 'E', 'T', 'S', 'E', 'T', 'R', 'A', 'D', 'I', 'O'];
 	var ratTrapCodeCurArray:Int = 0;
 	var keyLists:String = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
@@ -277,6 +278,7 @@ class MainMenuState extends MusicBeatState
 										else 
 											StoryMenuState.selectedWeekFromMainMenu = 1;
 
+										StoryMenuState.autoMode = false;
 										MusicBeatState.switchState(new StoryMenuState());
 									case 'freeplay':
 										MusicBeatState.switchState(new FreeplayState());
@@ -416,13 +418,9 @@ class MainMenuState extends MusicBeatState
 
 			new FlxTimer().start(7.1667, function(tmr:FlxTimer)
 			{
-				WeekData.reloadWeekFiles(true);
-				PlayState.isStoryMode = true;
-				PlayState.storyWeek = 2;
-				CoolUtil.difficulties = ['Hard'];
-				PlayState.SONG = Song.loadFromJson('rat-trap-hard', 'rat-trap');
-				PlayState.storyDifficulty = 0;
-				LoadingState.loadAndSwitchState(new PlayState());
+				StoryMenuState.autoMode = true;
+				StoryMenuState.selectedWeekFromMainMenu = 2;
+				MusicBeatState.switchState(new StoryMenuState());
 			});		
 		});
 	}

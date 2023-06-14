@@ -37,7 +37,7 @@ class StageData {
 		} else if(SONG.song != null) {
 			switch (SONG.song.toLowerCase().replace(' ', '-'))
 			{
-				case 'cheddar' | 'retro' | 'squeeze' | 'rizz' | 'checkpoint':
+				case 'cheddar' | 'retro' | 'squeeze' | 'lovebust' | 'checkpoint':
 					stage = 'cheesePlatformer';
 				case '7v7':
 					stage = 'tank';
